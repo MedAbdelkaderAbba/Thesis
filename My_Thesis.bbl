@@ -68,7 +68,7 @@ Ismail Castillo, Johannes Schmidt-Hieber, and Aad {van der Vaart}.
 \newblock Bayesian linear regression with sparse priors.
 \newblock \emph{The Annals of Statistics}, 43\penalty0 (5):\penalty0
   1986--2018, October 2015.
-
+\newblock URL \url{http://dx.doi.org/10.1214/15-AOS1334}.
 
 \bibitem[Chatterjee and Lahiri(2011)]{chatterjee2011bootstrap}
 A.~Chatterjee and S.~N. Lahiri.
@@ -76,7 +76,7 @@ A.~Chatterjee and S.~N. Lahiri.
 \newblock \emph{Journal of the American Statistical Association}, 106\penalty0
   (494):\penalty0 608--625, 2011.
 \newblock \doi{10.1198/jasa.2011.tm10159}.
-
+\newblock URL \url{http://dx.doi.org/10.1198/jasa.2011.tm10159}.
 
 \bibitem[Datta and Dunson(2016)]{datta2016bayesian}
 Jyotishka Datta and David~B Dunson.
@@ -94,7 +94,7 @@ Bradley Efron, Trevor Hastie, Iain Johnstone, and Robert Tibshirani.
 \newblock Least angle regression.
 \newblock \emph{The Annals of statistics}, 32\penalty0 (2):\penalty0 407--499,
   2004.
-
+\newblock URL \url{http://projecteuclid.org/euclid.aos/1083178935}.
 
 \bibitem[Friedman et~al.(2007)Friedman, Hastie, H{\"o}fling, Tibshirani, and
   {others}]{friedman_pathwise_2007}
@@ -103,7 +103,7 @@ Jerome Friedman, Trevor Hastie, Holger H{\"o}fling, Robert Tibshirani, and
 \newblock Pathwise coordinate optimization.
 \newblock \emph{The Annals of Applied Statistics}, 1\penalty0 (2):\penalty0
   302--332, 2007.
-
+\newblock URL \url{http://projecteuclid.org/euclid.aoas/1196438020}.
 
 \bibitem[Giraud(2014)]{giraud2014introduction}
 Christophe Giraud.
@@ -150,7 +150,7 @@ T.~J. Mitchell and J.~J. Beauchamp.
 \newblock \emph{Journal of the American Statistical Association}, 83\penalty0
   (404):\penalty0 1023--1032, December 1988.
 \newblock ISSN 01621459.
-
+\newblock URL \url{http://dx.doi.org/10.2307/2290129}.
 
 \bibitem[Pal and Khare(2014)]{Khare2014ergodicity}
 Subhadip Pal and Kshitij Khare.
@@ -164,7 +164,7 @@ Trevor Park and George Casella.
 \newblock \emph{Journal of the American Statistical Association}, 103\penalty0
   (482):\penalty0 681--686, 2008.
 \newblock URL
- 
+  \url{http://amstat.tandfonline.com/doi/abs/10.1198/016214508000000337}.
 
 \bibitem[Polson and Scott(2010)]{polson2010shrink}
 Nicholas~G Polson and James~G Scott.
