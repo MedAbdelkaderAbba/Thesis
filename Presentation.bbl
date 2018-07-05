@@ -1,0 +1,47 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Belloni et~al.(2011)Belloni, Chernozhukov, and
+  Wang]{belloni2011square}
+Alexandre Belloni, Victor Chernozhukov, and Lie Wang.
+\newblock Square-root lasso: Pivotal recovery of sparse signals via conic
+  programming.
+\newblock \emph{Biometrika}, 98\penalty0 (4):\penalty0 791--806, 2011.
+
+\bibitem[Bhattacharya et~al.(2015)Bhattacharya, Pati, Pillai, and
+  Dunson]{bhattacharya2014dirichlet}
+Anirban Bhattacharya, Debdeep Pati, Natesh~S. Pillai, and David~B. Dunson.
+\newblock Dirichlet-{{Laplace}} priors for optimal shrinkage.
+\newblock \emph{Journal of the American Statistical Association}, 110:\penalty0
+  1479--1490, 2015.
+
+\bibitem[B{\"u}hlmann and {van de Geer}(2011)]{buhlmann2011statistics}
+Peter B{\"u}hlmann and Sara {van de Geer}.
+\newblock \emph{Statistics for High-Dimensional Data}.
+\newblock {Springer-Verlag Berlin Heidelberg}, 2011.
+
+\bibitem[Efron et~al.(2004)Efron, Hastie, Johnstone, and
+  Tibshirani]{efron_least_2004}
+Bradley Efron, Trevor Hastie, Iain Johnstone, and Robert Tibshirani.
+\newblock Least angle regression.
+\newblock \emph{The Annals of statistics}, 32\penalty0 (2):\penalty0 407--499,
+  2004.
+\newblock URL \url{http://projecteuclid.org/euclid.aos/1083178935}.
+
+\bibitem[Polson and Scott(2010)]{polson2010shrink}
+Nicholas~G Polson and James~G Scott.
+\newblock Shrink globally, act locally: Sparse {{Bayesian}} regularization and
+  prediction.
+\newblock \emph{Bayesian Statistics}, 9:\penalty0 501--538, 2010.
+
+\bibitem[Zhao and Yu(2006)]{zhao2006model}
+Peng Zhao and Bin Yu.
+\newblock On model selection consistency of lasso.
+\newblock \emph{Journal of Machine learning research}, 7\penalty0
+  (Nov):\penalty0 2541--2563, 2006.
+
+\end{thebibliography}
